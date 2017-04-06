@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>HorizontalLine.qml</file>
+        <file>images/icon_rise.png</file>
+        <file>images/icon_set.png</file>
+        <file>SettingsPage.qml</file>
+        <file>DayPage.qml</file>
+        <file>ListPage.qml</file>
+        <file>RiseSetLine.qml</file>
+    </qresource>
+</RCC>
